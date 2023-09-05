@@ -1,8 +1,7 @@
 # genetics
 DNA and RNA code
-nucleotide to amino acid sequence translator
 
-Python scripts that reads genetic code
+Python scripts that translates nucleotide sequences to amino acid sequences
 
 Data:
 https://github.com/hplgit/bioinf-py/blob/master/data/genetic_code.tsv
