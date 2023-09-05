@@ -1,5 +1,6 @@
 # genetics
-DNA code
+DNA and RNA code
+nucleotide to amino acid sequence translator
 
 Python scripts that reads genetic code
 
